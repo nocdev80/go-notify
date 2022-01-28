@@ -1,4 +1,4 @@
-module github.com/nocv80/go-notify
+module github.com/nocdev80/go-notify
 
 go 1.17
 
